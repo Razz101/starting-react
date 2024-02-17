@@ -1,0 +1,21 @@
+.userCard {
+    width: 30%;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    padding: 5px;
+}
+
+.avatar {
+    border-radius: 50%;
+    padding: 5%;
+}
+
+.userCards {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex: auto;
+    background-color: rgb(228, 227, 227);
+}

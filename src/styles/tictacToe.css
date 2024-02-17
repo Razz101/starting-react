@@ -1,0 +1,27 @@
+.square {
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(211, 73, 73);
+    margin: 1px;
+    padding: 2px;
+    background-color: white;
+}
+
+.text {
+    font-size: large;
+}
+
+.board {
+    background-color: black;
+    width: fit-content;
+}
+
+.boardRow {
+    display: flex;
+}
+
+.winnerText {
+    color: rgba(24, 4, 4, 0.674);
+    font-weight: bold;
+    font-size: x-large;
+}
